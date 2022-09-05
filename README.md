@@ -1,3 +1,3 @@
-Subdomain takeover checker based on sublist3r.
+#Subdomain takeover checker based on sublist3r.
 
-./takeover.sh -d test.com
+`./takeover.sh -d test.com`
